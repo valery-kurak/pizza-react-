@@ -1,2 +1,3 @@
-# pizza-react-
-react-pizza app
+Welcome to this project!
+
+WebSite: https://pizza-react-deploy.herokuapp.com
